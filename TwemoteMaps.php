@@ -1,17 +1,16 @@
 <?php
-/**
+ /**
  * @package Twemote
  * @copyright Hackersquad (Refer README for details)
- * @description Generates the route information using Google maps between a source and a destination.
+ * @author Sumit Ranjan(coderush) <sumit.nitt[at]gmail.com>
+ * @description TwemoteMaps generates the route information using Google maps between a source and a destination.
  */
 class TwemoteMaps{
-
 public $p;
 public function __construct()
 {
 
 }
-
 public function input($params)
 {
 	

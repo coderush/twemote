@@ -2,11 +2,9 @@
 /**
  * @package Twemote
  * @copyright Hackersquad (Refer README for details)
- * @author Akash Chauhan <akash6190 [at] gmail [dot] com>
- * @description Gets the latest stock market info about a set of companies.
+ * @author Sumit Ranjan(coderush) <sumit.nitt[at]gmail.com>
+ * @description TwemoteStocks app to get current stock listings of companies. Multiple arguments can be given separated by commas.
  */
-
-//require_once('config.inc.php');
 require_once(__DIR__.'/common.php');
 class TwemoteStocks
 {

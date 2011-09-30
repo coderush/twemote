@@ -2,7 +2,8 @@
 /**
  * @package Twemote
  * @copyright Hackersquad (Refer README for details)
- * @description Generates the dictionary meaning of a particular word.
+ * @author Sumit Ranjan(coderush) <sumit.nitt[at]gmail.com>
+ * @description TwemoteDict app gets dictionary meaning of the given word.
  */
 class TwemoteDict {
   
